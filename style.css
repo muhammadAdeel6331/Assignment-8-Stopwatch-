@@ -1,0 +1,303 @@
+@media screen and (max-width:1440px){
+        
+    body{
+        padding: 0;
+        margin: 0;
+        background-color: #039be5;
+        color: #2d2d2d;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    .heading{
+    height: 30vh;
+    font-size: 100px;
+    font-family: monospace;
+    font-weight: 550;
+    color: black;
+    } 
+    
+    .display{
+    font-size: 62px;
+    font-family: monospace;
+    }
+    button{
+    margin-top: 15px;
+    padding :7px;
+    width: 85px;
+    height: 85px;
+    border: none;
+    border-radius: 50%;
+    margin: 5px 2px 2px 2px; 
+    color: lightslategray;
+    outline: none;
+    background-color: transparent;
+    color: black;
+    border: 1px solid #2d2d2d;
+    }
+    button:hover{
+        background-color: #2d2d2d ;
+        color: white;
+        transition: 0.3s;
+    }
+    button:active{
+        background-color: black;
+        
+    }
+}
+
+
+
+@media screen and (max-width:1240px){   
+    body{
+        padding: 0;
+        margin: 0;
+        background-color: #039be5;
+        color: #2d2d2d;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    .heading{
+    height: 30vh;
+    font-size: 68px;
+    font-family: monospace;
+    font-weight: 550;
+    } 
+    .display{
+    font-size: 55px;
+    font-family: monospace;
+    } 
+    button{
+    margin-top: 15px;
+    padding :7px;
+    width: 76px;
+    height: 76px;
+    border: none;
+    border-radius: 50%;
+    margin: 5px 2px 2px 2px; 
+    color: lightslategray;
+    outline: none;
+    background-color: transparent;
+    color: black;
+    border: 1px solid #2d2d2d;
+    }
+    button:hover{
+        background-color: #2d2d2d ;
+        color: white;
+        transition: 0.3s;
+    }
+    button:active{
+        background-color: black;
+    }
+}
+
+
+
+@media screen and (max-width:768px){   
+    body{
+        padding: 0;
+        margin: 0;
+        background-color: #039be5;
+        color: #2d2d2d;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    .heading{
+    height: 30vh;
+    font-size: 63px;
+    font-family: monospace;
+    font-weight: 550;
+    }
+    .display{
+        font-size: 50px;
+        font-family: monospace;
+    }
+    button{
+        margin-top: 15px;
+        padding :7px;
+        width: 67px;
+        height: 67px;
+        border: none;
+        border-radius: 50%;
+        margin: 5px 2px 2px 2px; 
+        color: lightslategray;
+        outline: none;
+        background-color: transparent;
+        color: black;
+        border: 1px solid #2d2d2d;
+        }
+        button:hover{
+            background-color: #2d2d2d ;
+            color: white;
+            transition: 0.3s;
+        }
+        button:active{
+            background-color: black;
+        } 
+}
+
+
+
+
+@media screen and (max-width:620px){
+    body{
+        padding: 0;
+        margin: 0;
+        background-color: #039be5;
+        color: #2d2d2d;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    
+    .heading{
+    height: 35vh;
+    font-size: 53px;
+    font-family: monospace;
+    font-weight: 550;
+    }
+    .display{
+        font-size: 44px;
+        font-family: monospace;
+    }
+    button{
+        margin-top: 15px;
+        padding :7px;
+        width: 59px;
+        height: 59px;
+        border: none;
+        border-radius: 50%;
+        margin: 5px 2px 2px 2px; 
+        color: lightslategray;
+        outline: none;
+        background-color: transparent;
+        color: black;
+        border: 1px solid #2d2d2d;
+        }
+        button:hover{
+            background-color: #2d2d2d ;
+            color: white;
+            transition: 0.3s;
+        }
+        button:active{
+            background-color: black;
+        }
+}
+
+
+
+@media screen and (max-width:425px){   
+    body{
+        padding: 0;
+        margin: 0;
+        background-color: #039be5;
+        color: #2d2d2d;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    .heading{
+    height: 25vh;
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 750;
+    }
+    .display{
+        font-size: 40px;
+        font-family: monospace;
+    }
+    button{
+        margin-top: 15px;
+        padding :7px;
+        width: 54px;
+        height: 54px;
+        border: none;
+        border-radius: 50%;
+        margin: 5px 2px 2px 2px; 
+        color: lightslategray;
+        outline: none;
+        background-color: transparent;
+        color: white;
+        border: 1px solid #2d2d2d;
+        }
+        button:hover{
+            background-color: #2d2d2d ;
+            color: white;
+            transition: 0.3s;
+        }
+        button:active{
+            background-color: black;
+        }
+}
+
+
+
+
+@media screen and (max-width:320px){  
+    body{
+        padding: 0;
+        margin: 0;
+        background-color: lightblue;
+        color: #2d2d2d;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    .heading{
+    height: 25vh;
+    font-size: 35px;
+    font-family: monospace;
+    font-weight: 750;
+    }
+    .display{
+        font-size: 40px;
+        font-family: monospace;
+        
+    }
+    button{
+        margin-top: 15px;
+        padding :7px;
+        width: 54px;
+        height: 54px;
+        border: none;
+        border-radius: 50%;
+        margin: 5px 2px 2px 2px; 
+        color: lightslategray;
+        outline: none;
+        background-color: transparent;
+        color: black;
+        border: 1px solid #2d2d2d;
+        }
+        button:hover{
+    background-color: #2d2d2d ;
+    color: white;
+    transition: 0.3s;
+}
+button:active{
+    background-color: black;
+}
+
+}
+
+
+
+
+
+
+
+
+
