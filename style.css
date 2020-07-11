@@ -12,11 +12,12 @@
         height: 80vh;
     }
     .heading{
-    height: 30vh;
-    font-size: 100px;
-    font-family: monospace;
-    font-weight: 550;
-    color: black;
+        text-align: center;
+        height: 30vh;
+        font-size: 100px;
+        font-family: monospace;
+        font-weight: 550;
+        color: black;
     } 
     
     .display{
@@ -63,10 +64,11 @@
         height: 80vh;
     }
     .heading{
-    height: 30vh;
-    font-size: 68px;
-    font-family: monospace;
-    font-weight: 550;
+        text-align: center;   
+        height: 30vh;
+        font-size: 68px;
+        font-family: monospace;
+        font-weight: 550;
     } 
     .display{
     font-size: 55px;
@@ -111,10 +113,11 @@
         height: 80vh;
     }
     .heading{
-    height: 30vh;
-    font-size: 63px;
-    font-family: monospace;
-    font-weight: 550;
+        text-align: center;
+        height: 30vh;
+        font-size: 63px;
+        font-family: monospace;
+        font-weight: 550;
     }
     .display{
         font-size: 50px;
@@ -161,10 +164,11 @@
     }
     
     .heading{
-    height: 35vh;
-    font-size: 53px;
-    font-family: monospace;
-    font-weight: 550;
+        text-align: center;
+        height: 35vh;
+        font-size: 53px;
+        font-family: monospace;
+        font-weight: 550;
     }
     .display{
         font-size: 44px;
@@ -209,10 +213,11 @@
         height: 80vh;
     }
     .heading{
-    height: 25vh;
-    font-size: 40px;
-    font-family: monospace;
-    font-weight: 750;
+        text-align: center;
+        height: 25vh;
+        font-size: 40px;
+        font-family: monospace;
+        font-weight: 750;
     }
     .display{
         font-size: 40px;
@@ -249,7 +254,7 @@
     body{
         padding: 0;
         margin: 0;
-        background-color: lightblue;
+        background-color: #039be5;
         color: #2d2d2d;
         display: flex;
         flex-direction: column;
@@ -258,10 +263,11 @@
         height: 80vh;
     }
     .heading{
-    height: 25vh;
-    font-size: 35px;
-    font-family: monospace;
-    font-weight: 750;
+        text-align: center;
+        height: 25vh;
+        font-size: 35px;
+        font-family: monospace;
+        font-weight: 750;
     }
     .display{
         font-size: 40px;
@@ -282,10 +288,10 @@
         color: black;
         border: 1px solid #2d2d2d;
         }
-        button:hover{
-    background-color: #2d2d2d ;
-    color: white;
-    transition: 0.3s;
+    button:hover{
+        background-color: #2d2d2d ;
+        color: white;
+        transition: 0.3s;
 }
 button:active{
     background-color: black;

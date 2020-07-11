@@ -13,6 +13,10 @@ function run (){
         s=0;
         m++;
     }
+    if(m==60){
+        m=0;
+        h++;
+    }
 
 }
 function start(){
